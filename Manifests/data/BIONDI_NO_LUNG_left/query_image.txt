@@ -1,0 +1,4 @@
+/scratch/general/vast/u6059911/datasets/BIONDI/COVID-19-CT/coronacases_001.nii.gz
+/scratch/general/vast/u6059911/datasets/BIONDI/COVID-19-CT/coronacases_002.nii.gz
+/scratch/general/vast/u6059911/datasets/BIONDI/COVID-19-CT/coronacases_003.nii.gz
+/scratch/general/vast/u6059911/datasets/BIONDI/COVID-19-CT/coronacases_004.nii.gz

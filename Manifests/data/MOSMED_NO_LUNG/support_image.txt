@@ -1,0 +1,9 @@
+/scratch/general/vast/u6059911/datasets/MOSMED/INPUT/study_0255.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/INPUT/study_0256.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/INPUT/study_0257.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/INPUT/study_0258.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/INPUT/study_0259.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/INPUT/study_0260.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/INPUT/study_0261.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/INPUT/study_0262.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/INPUT/study_0263.nii.gz

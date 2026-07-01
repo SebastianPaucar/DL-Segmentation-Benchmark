@@ -1,0 +1,9 @@
+/scratch/general/vast/u6059911/datasets/MOSMED/GROUND_TRUTH/study_0264.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/GROUND_TRUTH/study_0265.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/GROUND_TRUTH/study_0266.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/GROUND_TRUTH/study_0267.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/GROUND_TRUTH/study_0268.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/GROUND_TRUTH/study_0269.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/GROUND_TRUTH/study_0270.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/GROUND_TRUTH/study_0271.nii.gz
+/scratch/general/vast/u6059911/datasets/MOSMED/GROUND_TRUTH/study_0272.nii.gz

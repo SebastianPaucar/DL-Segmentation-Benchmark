@@ -1,0 +1,9 @@
+/scratch/general/vast/u6059911/datasets/MONAI/GROUND_TRUTH/volume-covid19-A-0315.nii.gz
+/scratch/general/vast/u6059911/datasets/MONAI/GROUND_TRUTH/volume-covid19-A-0316.nii.gz
+/scratch/general/vast/u6059911/datasets/MONAI/GROUND_TRUTH/volume-covid19-A-0319.nii.gz
+/scratch/general/vast/u6059911/datasets/MONAI/GROUND_TRUTH/volume-covid19-A-0320.nii.gz
+/scratch/general/vast/u6059911/datasets/MONAI/GROUND_TRUTH/volume-covid19-A-0323.nii.gz
+/scratch/general/vast/u6059911/datasets/MONAI/GROUND_TRUTH/volume-covid19-A-0329.nii.gz
+/scratch/general/vast/u6059911/datasets/MONAI/GROUND_TRUTH/volume-covid19-A-0331.nii.gz
+/scratch/general/vast/u6059911/datasets/MONAI/GROUND_TRUTH/volume-covid19-A-0332.nii.gz
+/scratch/general/vast/u6059911/datasets/MONAI/GROUND_TRUTH/volume-covid19-A-0338.nii.gz

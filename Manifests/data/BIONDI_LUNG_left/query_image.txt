@@ -1,0 +1,5 @@
+/scratch/general/vast/u6059911/datasets/CONVERT_LUNG_biondi/coronacases_001.nii.gz
+/scratch/general/vast/u6059911/datasets/CONVERT_LUNG_biondi/coronacases_002.nii.gz
+/scratch/general/vast/u6059911/datasets/CONVERT_LUNG_biondi/coronacases_003.nii.gz
+/scratch/general/vast/u6059911/datasets/CONVERT_LUNG_biondi/coronacases_004.nii.gz
+/scratch/general/vast/u6059911/datasets/CONVERT_LUNG_biondi/coronacases_005.nii.gz

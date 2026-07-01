@@ -1,0 +1,9 @@
+/scratch/general/vast/u6059911/datasets/LUNG_NII_MONAI_MEDLSAM/dir_4/volume-covid19-A-0422.nii.gz
+/scratch/general/vast/u6059911/datasets/LUNG_NII_MONAI_MEDLSAM/dir_4/volume-covid19-A-0423.nii.gz
+/scratch/general/vast/u6059911/datasets/LUNG_NII_MONAI_MEDLSAM/dir_4/volume-covid19-A-0435.nii.gz
+/scratch/general/vast/u6059911/datasets/LUNG_NII_MONAI_MEDLSAM/dir_4/volume-covid19-A-0437.nii.gz
+/scratch/general/vast/u6059911/datasets/LUNG_NII_MONAI_MEDLSAM/dir_4/volume-covid19-A-0443.nii.gz
+/scratch/general/vast/u6059911/datasets/LUNG_NII_MONAI_MEDLSAM/dir_4/volume-covid19-A-0445.nii.gz
+/scratch/general/vast/u6059911/datasets/LUNG_NII_MONAI_MEDLSAM/dir_4/volume-covid19-A-0455.nii.gz
+/scratch/general/vast/u6059911/datasets/LUNG_NII_MONAI_MEDLSAM/dir_4/volume-covid19-A-0462.nii.gz
+/scratch/general/vast/u6059911/datasets/LUNG_NII_MONAI_MEDLSAM/dir_4/volume-covid19-A-0463.nii.gz

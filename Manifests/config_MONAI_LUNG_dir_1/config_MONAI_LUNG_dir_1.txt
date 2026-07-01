@@ -1,0 +1,18 @@
+[data]
+support_image_ls      =  /scratch/general/vast/u6059911/models/MedLSAM/config/data/MONAI_LUNG_dir_1/support_image.txt
+support_label_ls      =  /scratch/general/vast/u6059911/models/MedLSAM/config/data/MONAI_LUNG_dir_1/support_label.txt
+query_image_ls        =  /scratch/general/vast/u6059911/models/MedLSAM/config/data/MONAI_LUNG_dir_1/query_image.txt
+query_label_ls        =  /scratch/general/vast/u6059911/models/MedLSAM/config/data/MONAI_LUNG_dir_1/query_label.txt
+gt_slice_threshold    = 5
+bbox_mode             = SPL
+slice_interval        = 3
+fg_class              = [1]
+seg_save_path         = /scratch/general/vast/u6059911/models/MedLSAM/result_MONAI_NO_LUNG_dir_1/npz
+seg_png_save_path     = /scratch/general/vast/u6059911/models/MedLSAM/result_MONAI_NO_LUNG_dir_1/png
+
+[vit]
+net_type                = vit_b
+
+[weight]
+medlam_load_path   = checkpoint/medlam.pth
+vit_load_path  = checkpoint/sam_vit_b_01ec64.pth
